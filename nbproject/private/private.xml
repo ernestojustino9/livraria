@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/tecno-base/NetBeansProjects/LivrariaV1/src/livraria/dao/impl/UsuarioDaoImpl.java</file>
+            <file>file:/home/tecno-base/NetBeansProjects/LivrariaV1/src/livraria/model/Usuario.java</file>
+            <file>file:/home/tecno-base/NetBeansProjects/LivrariaV1/src/livraria/testes/TesteRole.java</file>
+            <file>file:/home/tecno-base/NetBeansProjects/LivrariaV1/src/livraria/model/Utente.java</file>
+            <file>file:/home/tecno-base/NetBeansProjects/LivrariaV1/src/livraria/view/dialog/au/JDialogUsuarioAu.java</file>
+            <file>file:/home/tecno-base/NetBeansProjects/LivrariaV1/src/livraria/dao/impl/Roledaoimpl.java</file>
+            <file>file:/home/tecno-base/NetBeansProjects/LivrariaV1/src/livraria/view/TelaPrincipal.java</file>
+            <file>file:/home/tecno-base/NetBeansProjects/LivrariaV1/src/livraria/util/ComboBoxList.java</file>
+            <file>file:/home/tecno-base/NetBeansProjects/LivrariaV1/src/livraria/view/dialog/JDialogUsuario.java</file>
+            <file>file:/home/tecno-base/NetBeansProjects/LivrariaV1/src/livraria/dao/UtenteDao.java</file>
+            <file>file:/home/tecno-base/NetBeansProjects/LivrariaV1/src/META-INF/persistence.xml</file>
+            <file>file:/home/tecno-base/NetBeansProjects/LivrariaV1/src/livraria/dao/RoleDao.java</file>
+            <file>file:/home/tecno-base/NetBeansProjects/LivrariaV1/src/livraria/dao/impl/UtenteDaoImpl.java</file>
+            <file>file:/home/tecno-base/NetBeansProjects/LivrariaV1/src/livraria/Livraria.java</file>
+        </group>
+    </open-files>
+</project-private>
